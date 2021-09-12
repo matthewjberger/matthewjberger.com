@@ -11,13 +11,17 @@
   "dependencies": {
     "@nrwl/next": "12.9.0",
     "@tailwindcss/typography": "^0.4.1",
+    "add": "^2.0.6",
     "autoprefixer": "^10.3.4",
     "core-js": "^3.6.5",
+    "gray-matter": "^4.0.3",
     "next": "11.1.0",
     "postcss": "^8.3.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "regenerator-runtime": "0.13.7",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.1",
     "tailwindcss": "^2.2.15",
     "tslib": "^2.0.0"
   },
